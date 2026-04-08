@@ -1,15 +1,9 @@
 # Hi there, I'm Sara Duarte! 👋
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sara Duarte's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" />
+</div>
 
 ---
 
