@@ -1,6 +1,5 @@
 # Hi, I'm Sara Duarte! 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saraevyn)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠️ Tech Stack (Hard Skills)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>&nbsp;
