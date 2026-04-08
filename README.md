@@ -1,4 +1,5 @@
 # Hi, I'm Sara Duarte! 👋
+---
 
 ### 🛠️ Tech Stack (Hard Skills)
 <p align="left">
@@ -10,6 +11,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/>
 </p>
 
+---
+
+### 🧠 Soft Skills
+- 🗣️ **Comunicação Assertiva:** Troca de ideias clara e objetiva com a equipe.
+- 🤝 **Trabalho em Equipe:** Colaboração ativa em projetos conjuntos.
+- 💡 **Resolução de Problemas:** Foco em encontrar soluções eficientes e otimizadas.
+- 📈 **Aprendizado Contínuo:** Evolução constante através do programa Entra 21.
+
+---
 
 ### 💻 Sobre mim
 
@@ -17,6 +27,8 @@
 - 📚 **Formação:** Participante do **Entra 21 - Blusoft**, com foco especializado em **Front-End**.
 - 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
 - 📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/sara-evyn-duarte/)
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sara's GitHub Stats" height="180"/>
