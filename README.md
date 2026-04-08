@@ -11,6 +11,18 @@
 </p>
 
 
+---
+
 ### 💻 Sobre mim
-- 🎓 Participante do **Entra 21 - Blusoft** com foco em **Front-End**.
-- 🚀 Desenvolvendo projetos modernos e responsivos.
+
+- 🎓 **Transição de Carreira:** Migrando da área administrativa para a tecnologia, trazendo organização e foco para o desenvolvimento de software.
+- 📚 **Formação:** Participante do **Entra 21 - Blusoft**, com foco especializado em **Front-End**.
+- 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
+- 📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/sara-evyn-duarte/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sara's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=dark" alt="Most Used Languages" height="150"/>
+</p>
