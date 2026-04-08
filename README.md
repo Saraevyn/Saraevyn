@@ -1,6 +1,6 @@
 # Hi, I'm Sara Duarte! 
 
-(https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical
 
 
 <div align="center">
