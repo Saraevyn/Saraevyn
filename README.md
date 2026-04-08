@@ -1,4 +1,4 @@
-<img width="1005" height="579" alt="{C04BEF9A-5856-47AA-A747-E092ECBE3E39}" src="https://github.com/user-attachments/assets/94c780d9-8e8a-499b-93b7-a7ebc245bb3d" /># Hi, I'm Sara Duarte! 👋
+Hi, I'm Sara Duarte! 👋
 
 ### 🛠️ Hard Skills
 
