@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ### 📊 Minhas Estatísticas do GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
