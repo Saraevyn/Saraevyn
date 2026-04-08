@@ -16,3 +16,5 @@
 - 🎓 **Transição de Carreira:** Migrando da área administrativa para a tecnologia, trazendo organização e foco para o desenvolvimento de software.
 - 📚 **Formação:** Participante do **Entra 21 - Blusoft**, com foco especializado em **Front-End**.
 - 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUNOME&theme=dracula"/>
