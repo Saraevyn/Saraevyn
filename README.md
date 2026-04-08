@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
+### 📊 Minhas Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-**Saraevyn/Saraevyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Linguagens mais utilizadas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### 💻 Sobre mim
+- 🎓 Participante do **Entra 21 - Blusoft**
+- 🚀 Focada em **Desenvolvimento Front-End**
+- ⚡ Conhecimentos em: **JavaScript, TypeScript, Angular e C#**
