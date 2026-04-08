@@ -1,4 +1,4 @@
-# Hi, I'm Sara Duarte! 👋
+# Hi, I'm Sara Duarte! 
 
 ### 🛠️ Tech Stack (Hard Skills)
 <p align="left">
