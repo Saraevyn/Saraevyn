@@ -1,7 +1,5 @@
 # Hi, I'm Sara Duarte! 
-
-https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical
-
+[![trophies](https://github-profile-trophy.vercel.app/?username=Saraevyn)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=0091ff&sideNums=0091ff&sideLabels=444444&dates=444444&ring=0091ff&fire=0091ff&stroke=00000000&background=00000000" />
