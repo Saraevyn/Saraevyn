@@ -1,5 +1,4 @@
 # Hi, I'm Sara Duarte! 👋
----
 
 ### 🛠️ Tech Stack (Hard Skills)
 
