@@ -1,6 +1,6 @@
 # Hi, I'm Sara Duarte! 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=dracula&hide_border=true)
 
 ### 🛠️ Tech Stack (Hard Skills)
 <p align="left">
