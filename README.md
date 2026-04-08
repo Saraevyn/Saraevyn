@@ -1,10 +1,6 @@
 # Hi, I'm Sara Duarte! 
-### 📊 Minhas Estatísticas
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&theme=tokyonight" />
-</p>
+### 📊 Minhas Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=0091ff&sideNums=0091ff&sideLabels=444444&dates=444444&ring=0091ff&fire=0091ff&stroke=00000000&background=00000000" />
