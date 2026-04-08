@@ -10,7 +10,7 @@
   
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="angular" height="22"/>
   
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="csharp" height="22"/>
+  <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="csharp" height="22"/>
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="html5" height="22"/>
   
