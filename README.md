@@ -1,5 +1,7 @@
 # Hi, I'm Sara Duarte! 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saraevyn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠️ Tech Stack (Hard Skills)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>&nbsp;
@@ -9,7 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/>
 </p>
-
 
 ### 💻 Sobre mim
 
