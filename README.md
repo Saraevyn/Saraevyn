@@ -1,4 +1,15 @@
-Hi, I'm Sara Duarte! 👋
+# Hi, I'm Sara Duarte! 👋
+
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Hard Skills
 
