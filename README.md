@@ -1,6 +1,8 @@
 # Hi, I'm Sara Duarte! 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=7ec699&sideNums=7ec699&sideLabels=ffffff&dates=7ec699&ring=7ec699&fire=7ec699&stroke=00000000&background=0d1117" />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SARA-DUARTE-USUARIO&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&ring=ffffff&fire=ffffff&stroke=00000000&background=010409" />
+</div>
 
 #### 🛠️ Tech Stack (Hard Skills) 
 
