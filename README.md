@@ -18,8 +18,7 @@
 - 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
 - 📫 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/sara-evyn-duarte/)
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sara's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=dark" alt="Most Used Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sara's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=dracula" alt="Most Used Languages" height="180"/>
 </p>
