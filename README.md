@@ -17,10 +17,4 @@
 - 📚 **Formação:** Participante do **Entra 21 - Blusoft**, com foco especializado em **Front-End**.
 - 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
 
-| 📊 Minhas Estatísticas | 🛠 Linguagens mais usadas |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUNOME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNOME&layout=compact&langs_count=7&theme=dracula"/> |
-
-| 🔥 Streak de Contribuições |
-| :---: |
-| <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUNOME&theme=dracula"/> |
+ <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUNOME&theme=dracula"/> |
