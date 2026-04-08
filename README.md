@@ -1,7 +1,7 @@
 # Hi, I'm Sara Duarte! 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=8b949e&sideNums=8b949e&sideLabels=6e7681&dates=6e7681&ring=8b949e&fire=8b949e&stroke=00000000&background=00000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=79c0ff&sideNums=79c0ff&sideLabels=c9d1d9&dates=c9d1d9&ring=79c0ff&fire=79c0ff&stroke=00000000&background=00000000" />
 </div>
 
 <div align="center">
