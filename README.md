@@ -1,25 +1,27 @@
-# Hi there, I'm Sara Duarte! 👋
+# Hi, I'm Sara Duarte! 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saraevyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraevyn&layout=compact&theme=radical&hide=html,css" />
 </div>
 
 ---
 
-### 🛠️ Hard Skills (Tecnologias)
+### 🛠️ Tech Stack (Hard Skills)
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="22"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="typescript" height="22"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="angular" height="22"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="csharp" height="22"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="html5" height="22"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="css3" height="22"/>
 </p>
 
 ---
 
 ### 🧠 Soft Skills (Habilidades)
+
 - 🗣️ **Comunicação Assertiva:** Troca de ideias clara com o time.
 - 🤝 **Trabalho em Equipe:** Colaboração em projetos conjuntos.
 - 💡 **Resolução de Problemas:** Foco em encontrar soluções eficientes.
@@ -28,6 +30,6 @@
 ---
 
 ### 💻 Sobre mim
+
 - 🎓 Participante do **Entra 21 - Blusoft** (Foco em Front-End).
 - 🚀 Desenvolvendo projetos modernos e responsivos.
-- 📫 Como me encontrar: [Seu LinkedIn Aqui]
