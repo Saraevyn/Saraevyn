@@ -1,5 +1,7 @@
 # Hi, I'm Sara Duarte! 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUNOME&theme=dark"/>
+
 #### 🛠️ Tech Stack (Hard Skills) 
 
 <p align="left">
@@ -17,4 +19,4 @@
 - 📚 **Formação:** Participante do **Entra 21 - Blusoft**, com foco especializado em **Front-End**.
 - 🚀 **Projetos:** Desenvolvendo aplicações modernas, responsivas e focadas na experiência do usuário (UI/UX).
 
- <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUNOME&theme=dracula"/> |
+
