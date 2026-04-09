@@ -1,10 +1,6 @@
 # Hi, I'm Sara Duarte! 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saraevyn&currStreakNum=0091ff&sideNums=0091ff&sideLabels=444444&dates=444444&ring=0091ff&fire=0091ff&stroke=00000000&background=00000000" />
-</div>
-
-<div align="center">
   <h3>🛠 Tech Stack </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
