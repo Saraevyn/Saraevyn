@@ -1,8 +1,7 @@
 # Hi, I'm Sara Duarte! 
 
 <h3>🛠 Tech Stack</h3>
-
-<table>
+<table border="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/></td>
