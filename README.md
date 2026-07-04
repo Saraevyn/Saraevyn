@@ -1,4 +1,4 @@
-# Hi, I'm Sara Duarte! 
+# Hi, I'm Sara Evellin Duarte! 
 
 <h3>🛠 Tech Stack</h3>
 <p align="center">
