@@ -17,6 +17,8 @@
 ## 💻 Sobre mim
 
 * 📚 **Formação & Atuação:** Participante do **Entra 21 - Blusoft**, atuando com foco **Full Stack** (Front-End e Back-End).
+
 * ⚙️ **Metodologia:** Desenvolvo soluções eficientes e organizadas, sempre codando com base em especificações do **SDD (Software Design Document)** para garantir código limpo, escalável e bem estruturado.
+
 * 🚀 **Projetos:** Criação de aplicações modernas, responsivas, robustas no ecossistema e focadas na experiência do usuário (UI/UX).
 
