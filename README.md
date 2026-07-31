@@ -22,3 +22,6 @@
 
 * 🚀 **Projetos:** Criação de aplicações modernas, responsivas, robustas no ecossistema e focadas na experiência do usuário (UI/UX).
 
+### 📬 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/sara-evyn-duarte) • [Email](mailto:itsaraduarte@gmail.com) • [GitHub](https://github.com/Saraevyn)
